@@ -505,7 +505,7 @@
     width: 400px;
     border-radius: 10px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0) 
-    0%, rgba(17,17,17,0.6) 100%), url('pic3.jpg');
+    0%, rgba(17,17,17,0.6) 100%), url("pic3.jpg");
     background-size: cover;
     position: relative;
     color: #FBF1EE;
@@ -513,7 +513,7 @@
 
 .services__card:nth-child(2) {
     background-image: linear-gradient(to bottom, rgba(0,0,0,0) 
-    0%, rgba(17,17,17,0.6) 100%),url('pic4.jpg');
+    0%, rgba(17,17,17,0.6) 100%),url("pic4.jpg");
     background-size: cover;
     position: relative;
     color: #FBF1EE;
@@ -724,7 +724,7 @@
     width: 400px;
     border-radius: 20px; /* Adjust the radius to your liking */
     overflow: hidden; /* Clip content that exceeds the rounded corners */
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/pic5.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url("pic5.jpg");
     background-position: center;
     align-items: center;
     background-size: cover;
