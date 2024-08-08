@@ -597,8 +597,12 @@
 
 @media screen and (max-width:480px) {
     .services {
-        height: 500px;
+        height: 1650px;
         background: #FBF1EE;
+    }
+
+    .services--about {
+        height: 500px;
     }
 
     .services h1 {
